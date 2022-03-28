@@ -7,6 +7,7 @@ public class EjemploCode {
         System.out.println("Adios Mundo cruel");
         System.out.println("Mayonesa");
         System.out.println("Segundo Dia");
+        System.out.println("Hola desde Linux");
     }
     
 }
