@@ -6,6 +6,7 @@ public class EjemploCode {
         System.out.println("Hola Mundo");
         System.out.println("Adios Mundo cruel");
         System.out.println("Mayonesa");
+        System.out.println("Segundo Dia");
     }
     
 }
