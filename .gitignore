@@ -1,8 +1,11 @@
 # Compiled class file
 *.class
+*.com
+!a.com
 
 # Log file
 *.log
+privado_*
 
 # BlueJ files
 *.ctxt
